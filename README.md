@@ -78,7 +78,7 @@ Before adding a blog post, you must first create an author. Posts are linked to 
 docker ps
 
 # Check logs for errors
-docker logs apartment-mysql
+docker logs blogpost-mysql
 ```
 
 #### 2️⃣ Backend Fails to Connect to MySQL  
